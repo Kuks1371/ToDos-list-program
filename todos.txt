@@ -1,6 +1,5 @@
 Wash the dishes
-Clean the house
-Throw out rubbish
+Boil soup
+Learn oop python
+Progress engineering work
 Bake pizza
-Learn python
-Learn sql
