@@ -3,3 +3,6 @@ Boil soup
 Learn oop python
 Progress engineering work
 Bake pizza
+Clean the bag
+Throw out trash
+
